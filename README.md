@@ -1,6 +1,6 @@
 - Hi, I’m @Abieskawa
-- I’m working in bioinformatics and aquaculture breeding.
-- I have master degree of plant breeding Agronomy Department in National Taiwan University.
+- I’m currently working on bioinformatics and aquaculture breeding.
+- I have master degree of plant breeding in Agronomy Department of National Taiwan University.
 - I’m looking to collaborate on anyone work with biology data.
 - How to reach me @ken9239ken on twitter.
 
